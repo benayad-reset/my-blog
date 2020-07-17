@@ -1,0 +1,267 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"le",
+				"left_side"
+			],
+			[
+				"left",
+				"left_side"
+			],
+			[
+				"l",
+				"l_right"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"use",
+				"usernames"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"train",
+				"train_indentity"
+			],
+			[
+				"test_",
+				"test_identity"
+			],
+			[
+				"pd",
+				"pd"
+			],
+			[
+				"c",
+				"curr_word"
+			],
+			[
+				"conten",
+				"content1"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"vmen",
+				"View: Toggle Menu"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 150.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/ben-ks/paris/benayad-reset.github.io/index.html",
+		"/home/ben-ks/algorithmic_hustle/initial.py",
+		"/home/ben-ks/projects/git_proj/test.py",
+		"/home/ben-ks/algorithmics/mergeSort.py",
+		"/home/ben-ks/Desktop/fun_fun/cprogg/hello.c",
+		"/home/ben-ks/test1.c",
+		"/home/ben-ks/Desktop/fun_fun/cprogg/hello",
+		"/home/ben-ks/test.c",
+		"/home/ben-ks/Desktop/PP_First_Batch_PAPERS/library.bib",
+		"/home/ben-ks/Downloads/trueskilltm-a-bayesian-skill-rating-system.bib",
+		"/home/ben-ks/Desktop/DNA_courses/cloud/project_c/target/README.md",
+		"/home/ben-ks/wireless.py",
+		"/home/ben-ks/Desktop/selfie-master-working/selfie-master/selfie.c",
+		"/home/ben-ks/Desktop/selfie-master/grammar.md",
+		"/home/ben-ks/Desktop/selfie-master/selfie.c",
+		"/home/ben-ks/.cache/.fr-9h3Grr/CC-Summer-2016-master/README.md",
+		"/home/ben-ks/delete.c",
+		"/home/ben-ks/selfie-master/selfie.c",
+		"/home/ben-ks/selfie-master/grammar.md",
+		"/home/ben-ks/Desktop/selfie-master-working/selfie-master/grammar.md",
+		"/home/ben-ks/test.py",
+		"/home/ben-ks/Desktop/crypto_proj/OnePageSync/OnePageSync/backend/main.py",
+		"/home/ben-ks/Desktop/crypto_proj/OnePageSync/OnePageSync/backend/static/index2.html",
+		"/home/ben-ks/Desktop/crypto_proj/OnePageSync/OnePageSync/backend/static/index3.html",
+		"/home/ben-ks/kabil.py",
+		"/home/ben-ks/Desktop/crypto_proj/OnePageSync/OnePageSync/backend/static/style3.css",
+		"/home/ben-ks/Desktop/crypto_proj/OnePageSync/OnePageSync/backend/static/index.html",
+		"/home/ben-ks/Desktop/crypto_proj/OnePageSync/OnePageSync/backend/static/script.js",
+		"/home/ben-ks/Desktop/crypto_proj/OnePageSync/OnePageSync/backend/static/jquery.js",
+		"/home/ben-ks/Desktop/crypto_proj/py-blockchain-master/node.py",
+		"/home/ben-ks/Desktop/crypto_proj/py-blockchain-master/wallet.py",
+		"/home/ben-ks/Desktop/crypto_proj/py-blockchain-master/blockchain.py",
+		"/home/ben-ks/Desktop/crypto_proj/py-blockchain-master/transaction.py",
+		"/home/ben-ks/Desktop/crypto_proj/py-blockchain-master/node_console.py",
+		"/home/ben-ks/Desktop/crypto_proj/py-blockchain-master/block.py",
+		"/home/ben-ks/kaggle/fraud_detection/fraud.py",
+		"/home/ben-ks/bigdata/reducer.py",
+		"/home/ben-ks/bigdata/mapper2.py",
+		"/home/ben-ks/bigdata/mapper.py",
+		"/home/ben-ks/Desktop/coursera_apply.txt",
+		"/home/ben-ks/bigdata/sparkTest.py",
+		"/home/ben-ks/bigdata/preprocessing.py",
+		"/home/ben-ks/t.py",
+		"/home/ben-ks/bigdata/stdin.py",
+		"/home/ben-ks/bigdata/prperocessing.py",
+		"/home/ben-ks/map.py",
+		"/home/ben-ks/process.py"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "about.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 250.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
