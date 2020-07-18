@@ -30,7 +30,7 @@ twitter_username: will-add-it-later
 github_username:  benayad-reset
 
 # Build settings
-theme: minima
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
